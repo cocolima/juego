@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya:ital,wght@0,400;0,900;1,400;1,900&display=swap');
+*{
+  font-family: 'Alegreya', serif;
+  text-align: center;
+  color: #654A4E;
+  font-size: 1.2em;
+}
+
+body{
+  background-image: url("public/papel40.jpg");
+  background-color: antiquewhite;
+}
+.claseVisible {
+  visibility: visible;
+}
+.invisible{
+  visibility: hidden;
+}
+.showMen{
+  visibility: visible;
+}
+.hiddenMen{
+  visibility: hidden;
+}
+button{
+  border-style: double;
+}
+#intentos{
+  font-size: 1.5rem;
+}
+img{
+  width: 3em;
+}
+
+
+
+
